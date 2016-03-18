@@ -1,0 +1,45 @@
+body header.header
+{
+    display: none !important;
+}
+
+#sidebar
+{
+    display: none !important;
+}
+.btn
+{
+    display: none !important;
+}
+
+h3.page-header
+{
+    font-size: 18px !important;
+    position: absolute !important;
+    top: -25px !important;
+}
+
+.col-lg-6{
+	width: 50% !important;
+	float: left !important;
+}
+
+.col-lg-12{
+	margin-top: -60px !important;
+}
+
+footer{
+	display: none !important;
+}
+
+a[href]:after {
+    content: none !important;
+  }
+
+ #search{
+ 	display: none !important;
+ }
+
+ .mech, .akcja{
+    display: none !important;
+ }
